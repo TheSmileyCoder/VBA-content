@@ -1,3 +1,4 @@
+
 ---
 title: Form.CurrentView Property (Access)
 keywords: vbaac10.chm13466
@@ -34,6 +35,7 @@ The  **CurrentView** property uses the following settings.
 |0|Design view|
 |1|Form view|
 |2|Datasheet view|
+|7|Layout view|
 Use this property to perform different tasks depending on the current view. For example, an event procedure could determine which view the form is displayed in and perform one task if the form is displayed in Form view or another task if it's displayed in Datasheet view.
 
 
